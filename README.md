@@ -224,4 +224,6 @@ making it suitable for showcasing Data Analyst, Business Analyst, and Data Analy
 ## Author
 
 **Raj Singhal**
-B.Tech, IIIT Kota
+
+
+B.Tech IIIT Kota
